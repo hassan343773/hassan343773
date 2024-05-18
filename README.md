@@ -21,4 +21,4 @@
 - **Project Beta**: Make an Database uaing My SQL on the topic of Telecommunocation Management system with Frontend editing and backend  editing.
 
 ### ⚡ Fun Fact
-- I’m a huge fan of hiking and have climbed 10 peaks over 14,000 feet!
+- I’m a huge fan of exploring World .
